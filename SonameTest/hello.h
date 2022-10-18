@@ -14,6 +14,6 @@ class obj : public vclass{
 public:
     std::string get_name();//获得name
     obj(){
-        name="hello";
+        name="new_hello 2.0";
     }
 };
